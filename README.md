@@ -1,6 +1,6 @@
 # Hi there, I'm Venkatesh Chintha 👋
 
-### AI/ML Engineer · 8 Years Experience · GenAI Specialist
+### AI/ML Engineer · 5 Years Experience · GenAI Specialist
 
 > *Building intelligent systems — from classical ML to production-grade LLM applications*
 
